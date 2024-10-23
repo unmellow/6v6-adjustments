@@ -1,6 +1,7 @@
 #!mainFile "../../dev_main.opy"
 
-#!include "heroes/sombra/translocator_cooldown_reset.opy"
+#!include "heroes/sombra/translocator.opy"
+
 
 def initSombra():
     @Name "[sombra/init.opy]: initSombra()"
